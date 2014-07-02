@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+	<employee>
+		<name number="1" number2="3"/>
+		<age>30</age>
+	</employee>
+</employees>

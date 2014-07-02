@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <注释：$符号代表换行符，#代表第一需要替换的值，@代表第二个需要替换的值> -->
+<root>
+	<data>
+		<info index0="1 hour"/>
+		<info index1="# hours"/>
+		<info index2="# mins"/>
+		<info index3="# sec"/>
+		<info index4="FREE"/>
+		<info index5="Ready"/>
+		<info index6="Level #"/>
+		<info index7="Are you sure you want to clear this display?"/>
+		<info index8="Are you sure you want to cancel?"/>
+		<info index9="PURCHASE #"/>
+		
+		<info index10="Expand your garden into this area?"/>
+		<info index11="Expand your flower shop?"/>
+		<info index12="While you’re here, feel free to help yourself to some flowers from the garden!"/>
+		<info index13="You are limited to one Vase delivery at a time."/>
+		<info index14="You are limited to one delivery from the Extras menu at a time."/>
+		<info index15="You do not have enough cash to make this purchase!"/>
+		<info index16="You do not have enough gold to make this purchase!"/>
+		<info index17="Add Cash"/>
+		<info index18="Get More"/>
+		<info index19="         Not enough level!"/>
+		
+		<info index20="OK"/>
+		<info index21="Congratulations! You have reached Level # You have unlocked:"/>
+		<info index22="Congratulations!$You have reached Level #!"/>
+		<info index23="Vase Delivery: "/>
+		<info index24="# Delivery: "/>
+		<info index25="#Arrived"/>
+		<info index26="Drag items here$to sell"/>
+		<info index27="Sell price of each floral$arrangement."/>
+		<info index28="No more of the selected vase."/>
+		<info index29="No more #."/>
+		
+		<info index30="Display max reached."/>
+		<info index31="Your reward:"/>
+		<info index32="To help you celebrate, here's some bonus cash to share with your friends!"/>
+		<info index33="You have unlocked:"/>
+		<info index34="To help you celebrate, here are some # to share with your friends!"/>
+		<info index35="Oops, it looks like you have some leftover #!"/>
+		<info index36="Hint: "/>
+		<info index37="Would you like to thank # for the flowers?"/>
+		<info index38="Volunteer at #’s garden?"/>
+		<info index39="Goals"/>
+	
+		<info index40="FREE  "/>
+		<info index41="CASH: You have$# cash."/>
+		<info index42="Gold: You have$# gold."/>
+		<info index43="XP: # XP to$reach level @."/>
+		<info index44="FLOWER STORAGE: You are$using # of @ capacity."/>
+		<info index45="#'s Flower Shop"/>
+		<info index46="Rotate Mode"/>
+		<info index47="Move Mode"/>
+		<info index48="Default Mode"/>
+		<info index49="Full Screen$    Toggle"/>
+		
+		<info index50="Zoom Out"/>
+		<info index51="Zoom In"/>
+		<info index52="Music On/Off"/>
+		<info index53="Sounds$On/Off"/>
+		<info index54="Mouse Mode"/>
+		<info index55="Audio/Video$   Settings"/>
+		<info index56="Flower Storage"/>
+		<info index57="Free Gifts"/>
+		<info index58="Delivery Menu"/>
+		<info index59="Inventory"/>
+		
+		<info index60="Hint: Click on your displays and prepare floral arrangements."/>
+		<info index61="Hint: Upgrade your Flower Storage Unit."/>
+		<info index62=" sent you Wooden Planks."/>
+		<info index63=" sent you Nails."/>
+		<info index64=" sent you Picket Fences."/>
+		<info index65=" sent you Windows."/>
+		<info index66="Garden Expasion prices have been reduced!  Thank you for your feedback."/>
+		<info index67="Garden Expansion prices have been reduced!  The difference between the price you paid and the new lower price will be credited to your account."/>
+		<info index68="Oops.. there was a problem. Can you please reload the game?"/>
+		<info index69="$A Temp can work up to $2 hours per shift."/>
+		
+		<info index70="$Unlock by level 20!"/>
+		<info index71="Hire a Temp"/>
+		<info index72="$Your Temp has not clocked-in today."/>
+		<info index73="Temp Work"/>
+		<info index74="Would you like to clock-in to work at #’s Flower Shop?"/>
+		<info index75="$Level #: @ per shift."/>
+		<info index76="You've been hired as a Temp$in #'s Flower Shop."/>
+		<info index77="Off Work"/>
+		<info index78="Click for Options"/>
+		<info index79="Not Clocked-In"/>
+		
+		<info index80="Temp Worker"/>
+		<info index81="Click to Hire"/>
+		<info index82="Extra Worker"/>
+		<info index83="Clocked-In"/>
+		<info index84="$# has clocked-in to work."/>
+		<info index85="$# doesn't seem to require $your services."/>
+		<info index86="The game was opened in another browser. Please refresh the game."/>
+		<info index87="Expand your greenhouse area?"/>
+		<info index88="Grow Orchids, Cactus, and more $ inside your Greenhouse.$ Purchase greenhouse area?"/>
+		<info index89="Level #"/>
+		
+		<info index90="Flower Storage Upgrade"/>
+		<info index91="Greenhouse"/>
+		<info index92=" sent you Wooden Logs."/>
+		<info index93=" sent you NPotting Soil."/>
+		<info index94=" sent you Glass Panels."/>
+		<info index95=" sent you Entrance Pots."/>
+		<info index96=" sent you Roof Shingles."/>
+		<info index97=" sent you Vinyl Siding."/>
+		<info index98=" sent you Pressure Treated Wood."/>
+		<info index99=" sent you Dual-Pane Windows."/>
+		
+		<info index100=" This vase is for$ garden flowers."/>
+		<info index101=" This vase is for$ greenhouse plants."/>
+		<info index102=" Your Greenhouse is empty.$Purchase Floral Stands and Plants$from the Market."/>
+		<info index103="Click on an empty Floral Display$to find your Gift Pack items$(under Vases and Extras)."/>
+		<info index104="It’s #’s birthday today.$Wish # a Happy Birthday!"/>
+		<info index105="Loading #'s Shop..."/>
+		<info index106="It’s #’s birthday tomorrow.$Wish # a Happy Birthday!"/>
+		<info index107="No Employees Available"/>
+		<info index108="Send Free Gifts to your friends!"/>
+		<info index109="# sent you a Mystery Gift."/>
+		
+		<info index110="# sent you @."/>
+		<info index111=" sent you an Easter Egg."/>
+		<info index112="Trader Lou"/>
+		<info index113=" sent you Turquoise Shingles."/>
+		<info index114=" sent you Limestone Blocks."/>
+		<info index115=" sent you Triple-Pane Windows."/>
+		<info index116=" sent you Antique Lumber."/>
+		<info index117="Expires in "/>
+		<info index118="Garden Flowers"/>
+		<info index119="Greenhouse Flowers"/>
+		
+		<info index120="Search Friends"/>
+		<info index121=" sent you a Farmers' Market Signature."/>
+		<info index122="Show # request."/>
+		<info index123="# seed!"/>
+		<info index124="# 12-Pack"/>
+		<info index125="includes 12 #"/>
+		<info index126="Each # allows an employee to$ work twice as fast for @ minutes!"/>
+		<info index127="LASTS"/>
+		<info index128="# mins each"/>
+		<info index129="Cancel Mode"/>
+		
+		<info index130="Expand your Flowerland into this area?"/>
+		<info index131="Lab"/>
+		<info index132="Congratulations! You got a #!"/>
+		<info index133="You got all 5!$You have unlocked the #!"/>
+		<info index134="Mystery"/>
+		<info index135="Won #"/>
+		<info index136="Vivian"/>
+		<info index137="You need         # more.$Complete purchase for @?"/>
+		<info index138="Lab Spin"/>
+		<info index139="Event Info"/>
+		
+		<info index140="Global Reward"/>
+		<info index141="SEASON OF LOVE"/>
+		<info index142="Leaderboards"/>
+		<info index143="remaining"/>
+		<info index144=" left"/>
+		<info index145="Reward"/>
+		<info index146="The Farmers' Market allows you to directly sell harvested flowers. Do you want to unlock it early?"/>
+		<info index147="Hint: After unlocking the Farmers' Market you will still need help from 10 friends to finish building it."/>
+		<info index148="The Greenhouse can grow orchids, cacti and other beautiful plants. Do you want to unlock it early?"/>
+		<info index149="Hint: After unlocking the Greenhouse you will still need to spend 80,000 cash to gain the property rights to the Greenhouse area."/>
+		
+		<info index150="Flowerland's rollercoasters, restaurants and ferris wheels can bring in extra revenue. Do you want to unlock it early?"/>
+		<info index151="Hint: After unlocking Flowerland you will still need to spend 100,000 cash to gain the property rights to the Flowerland area."/>
+		<info index152="Upgrading will increase your storage space to #. Do you want to unlock it early?"/>
+		<info index153="Hint: After unlocking you will still need to ask friends for materials to upgrade your storage."/>
+		<info index154="Thanksgiving$Gifting"/>
+				
+		<info index168="Lab Flowers,Halloween Flowers,Thanksgiving Flowers,Christmas Flowers,Valentine's Flowers,Easter Flowers"/>
+		
+		<info index170="Gold"/>
+		<info index171="OFF"/>
+		<info index172="Note:Reward will be sent to you under Vases tab."/>
+		<info index173="Note:Reward will be sent to you under Extras tab."/>
+		<info index174="Your Greenhouse is Empty$Purchase Floral Stands and Plants$       from the Market."/>
+		<info index175="Click on an empty Floral Display$to find your Gift Pack items$(under Vases and Extras)."/>
+		<info index176="Enter the Market to find$your decorations pack."/>
+		<info index177="Click on your Avatar on the avatar$bar,click Edit and select your$new customizations"/>
+		<info index178="Note: Reward will be sent to Market ."/>
+		<info index179="1 Day"/>
+		
+		<info index180="# Days"/>
+		<info index181="lasts # mins each"/>
+		<info index182="# seeds!"/>
+		<info index183="REDUCES GROW TIME"/>
+		<info index184="#%"/>
+		<info index185="Bird of Paradise"/>
+		<info index186="Pink Marigolds"/>
+		
+		<info index215="Buy a starter pack to receive Cash, Gold, Coffee and Display (Originally 49 Gold) for just * That's~ 50% off!"/>
+		<info index216=" sent you #。"/>
+		<info index217="SPRING PREP"/>
+		<info index218="Timed Task"/>
+		<info index219="AURA EFFECT CHANCE:"/>
+		
+		<info index220="AURA HARVEST MAX:"/>
+		<info index222="Christmas Tree$Rewards"/>
+		<info index223="Accumulated Rewards:"/>
+		<info index224="Event has ended"/>
+		<info index225="Unlock on Lv.5"/>
+		<info index226="Casing not reached Lv.20, unfortunately you could not participate in this peer. Hurry up, more fantastic events are waiting!"/>
+		<info index227="MYSTERY EGGS"/>
+		<info index228="# Extra Crack"/>
+		<info index229="Free x 1"/>
+		
+		<info index230="Select"/>
+		<info index231="The Phoenix of Rebirth has brought reward-filled Mystery Eggs!Find all 4 animal decos to win the Crystal Ball Castle! Get egg cracking! {color}(Note：Clicking a Mystery Egg will directly deduct your Gold!){/color} "/>
+		<info index232="Story Tasks"/>
+		
+		<info index233="Tip: Click a Floral Product Display to make Floral Products"/>
+		<info index234="Tip: Upgrade your Floral Product Storage"/>
+		<info index235="Level"/>
+		<info index236="Note: Complete{color} preceding @ tasks {/color}to unlock this one, click button to go to first task"/>
+		<info index237="Note: Must be{color} level @ {/color}to complete this task"/>
+		<info index238="Find your feature here!"/>
+		<info index239="New"/>
+		
+		<info index240="Visit New Neighbors"/>
+		<info index241="Upgrade Delivery Shop"/>
+		<info index242="Order Amount:"/>
+		<info index243="經驗值："/>
+		<info index244="Help me upgrade my Delivery Shop!"/>
+		<info index245="I need your help with my delivery! "/>
+		<info index246="Note: Sufficient Prestige is required for upgrades in addition to materials"/>
+		<info index247="Deliver for friends"/>	
+	</data>
+	<tractor>
+		<info tfTitleTractorMainWinUI="PLANTER HARVESTER"/>
+		<info tfDesc1tractorMainWinUI="Fill the Planter Harvester with Gasoline to plant and harvest mutiple flowers in one go!"/>
+		<info tfDesc1tractorMainWinUI2="Please select which flower type to plant."/>
+		<info tfDesc2tractorMainWinUI="Tip: If successful, Gasoline will be deducted; if failed, Gasoline will be returned."/>
+		<info tfSizetractorMainWinUI="Inventory"/>
+		<info tftractorMainWinBtnsow="Plant Flowers"/>
+		<info tftractorMainWinBtnland="Harvest Flowers"/>
+		<info tftractorMainWinBtnpark="Flowerland Cash"/>
+		<info tfSowTitle="PLANT FLOWERS"/>
+		<info tfLandHarvestTitle="HARVEST FLOWERS"/>
+		<info tfParkHarvestTitle="FLOWERLAND CASH"/>
+		<info tfSowSucc="Planting was sucessful!"/>
+		<info tfSowNoLand="No free garden plots!"/>
+		<info tfSowTip1="Empty Garden Plots"/>
+		<info tfSowTip2="Planting will use:"/>
+		<info tfLandNo="No matured flowers to harvest!"/>
+		<info tfLandNoS="Storage max reached! Upgrade your storage or sell flowers to make more space."/>
+		<info tfLandConfig="Use # Gasoline to harvest all matured flowers?"/>
+		<info tfLandSucc="Matured flowers all harvested! You received:"/>
+		<info tfParkNo="No Flowerland attractions ready for collection!"/>
+		<info tfParkConfig="Use 20 Gasoline to collect from all ready attractions?"/>
+		<info tfParkSucc = "Collection complete! You received:"/>
+		<info tftractorHintDes="Do you want to give the Planter Harvester a spin?"/>
+		<info tftractorHintBtn="Go!"/>
+		<info akeyPlate="One Click to Place"/>
+		<info akeySeed="One Click to Plant"/>
+		<info akeyGain="One Click to Harvest"/>
+		<info akeyPlateTitle="PLACE POTS"/>
+		<info akeyPlateTip1="Empty Stand"/>
+		<info akeyPlateTip2="Placing Cost:"/>
+		<info akeyPlateNoDesk="You have no empty stands!"/>
+		<info akeyPlateSucc="Pots placed!"/>
+		<info akeySeedTitle="GREENHOUSE PLANTING"/>
+		<info akeySeedTip1="Empty Pots"/>
+		<info akeySeedNoPot="You have no empty pots!"/>
+		
+		<info tfWeedSowTitle="Weeding the Garden"/>
+		<info tftractorMainWinBtnweed="Weed"/>
+		<info tfWeedNo="There are no weeds that need clearing"/>
+		<info tfWeedConfig="Use 12 Gasolines to clear your garden of weeds"/>
+		<info tfWeedSucc = "You have successfully cleared your garden, you can collect:"/>
+	</tractor>
+	<tractorBuyEnerge>
+		<info tftractorBuyEnergeUITitle="NEED SOME GASOLINE?"/>
+		<info tftractorBuyEnergeUITips1="Gasoline is used to run your Harvester!"/>
+		<info tftractorBuyEnergeUITips2="Hot Deal!"/>
+		<info tftractorBuyEnergeUIBtnTip1="12 Gasoline"/>
+		<info tftractorBuyEnergeUIBtnTip2="50 Gasoline"/>
+		<info tftractorBuyEnergeUIBtnTip3="100 Gasoline"/>
+		<info tftractorBuyEnergeUIBtnName="Buy"/>
+	</tractorBuyEnerge>
+	<configWindowOne>
+		<info tfOkbtn="OK"/>
+	</configWindowOne>
+	<WinPackSell>
+		<info gift_txt="GIFT PACKS"/>
+		<info custom_txt="{font}CUSTOMIZATIONS{/font}"/>
+		<info decoration_txt="DECORATIONS"/>
+		<info buy_txt="Buy Now!"/>
+		<info decoration_tip="Note: Items also available in Market for about 2 weeks after launch."/>
+		<info custom_tip="Note: Items also available on character edit page for about 2 weeks after launch."/>
+	</WinPackSell>
+	<ParkLottery>
+		<info left_txt="Previous"/>
+		<info right_txt="Next"/>
+	</ParkLottery>
+	<WinPrakCongratulation>
+		<info title_txt="FLOWER SHOP LAB"/>
+		<info tip_txt="Congratulations! You received"/>
+	</WinPrakCongratulation>
+	<WinLabLottery>
+		<info title_txt="FLOWER SHOP LAB"/>
+		<info Tips_txt="Your source for uncommon, rare, ultra rare and genetically-enhanced flowers."/>
+		<info play_txt="Play"/>
+		<info prev_txt="Previous"/>
+		<info next_txt="Next"/>
+		<info Inventory_txt="Inventory"/>
+		<info InventoryTips_txt="You don't have any seeds in inventory."/>
+		<info buypaneltitle_txt=" SEED DISPENSER"/>
+		<info buytips1_txt="3 Plays"/>
+		<info buytips2_txt="11 Plays"/>
+		<info buytips3_txt="24 Plays"/>
+		<info buybtn_txt="Buy"/>
+	</WinLabLottery>
+	<WinLabIntroduce>
+		<info title_txt="FLOWER SHOP LAB"/>
+		<info golab_txt="Here are 3 Free Spins courtesy of yours truly! Shhh.. don’t tell anyone!"/>
+		<info cool_txt="My job is to create new flowers! You can get the seeds from the laboratory’s Seed Dispenser."/>
+		<info doc_txt="Greetings, I’m Dr. Cricket! I’m a scientist at the world-renowned Flower Shop Laboratory."/>
+		<info docbtn_txt="Hi Doc!"/>
+		<info coolbtn_txt="Cool!"/>
+		<info golabbtn_txt="Go to Lab!"/>
+	</WinLabIntroduce>
+	<DessertSpread>
+		<info title_txt="WELCOME!"/>
+		<info ok_txt="ENTER"/>
+		<info content_txt="Live your dream of owning your own Dessert Shop and use different bakings styles to create a myriad of scrumptious desserts."/>
+	</DessertSpread>
+	<Make>
+		<info flowerMake_title="Arrangements"/>
+		<info flower_mc_txt="Flowers"/>
+		<info vase_mc_txt="Vases"/>
+		<info extras_mc_txt="Extras"/> 
+		<info flowerMake_hint_txt="You have no flowers in storage$Please plant and harvest more."/> 
+		<info machineFruit_title="Machine Products"/>
+		<info machineFruit_hint="You have no products in storage$Please produce more."/>
+		<info done_mc_txt="Done"/>
+		<info select_txt="Select"/>
+		<info artMake_title="Floral Products"/>
+		<info noart_hint="You have no floral products in storage$Please make more."/>
+		<info coinNum_txt="X#"/>
+		<info tips1_txt="Obtained at"/>
+		<info come_green="Greenhouse"/>
+		<info come_lab="Lab"/>
+		<info come_market="Market"/>
+		<info sell_txt="Sale price"/>
+	</Make>
+	<upgradeStorage>
+		<info storage_title_txt="FLOWER STORAGE UPGRADE"/>
+		<info floralstorage_title_txt="UPGRADE FLORAL STORAGE"/>
+		<info green_title_txt="GREENHOUSE"/>
+		<info upgrade_txt_txt="Instant Upgrade"/>
+		<info build_txt_txt="Instant  Build"/>
+		<info mc_build_txt="Build"/>
+		<info capacity_txt="Capacity:"/>
+		<info unUpgrade_mc_txt="Upgrade"/>
+		<info ask_txt="Ask Friends"/>
+	</upgradeStorage>
+	<sapphireExchange>
+		<info numTips_txt="Sapphires needed:"/>
+		<info Tips_txt="Tip: Make floral products at the floral table, then sell them to earn Sapphires"/>
+		<info got_btn_txt="Exchange"/>
+		<info haveGot_txt="Claimed"/>
+	</sapphireExchange>
+	<rightCombineWin>
+		<info free_btn_txt="Free "
+		      play_btn_txt="Play Now"
+		      tips_txt="Listen to enrapturing tales, participate in events and find mystery rewards. Enter the Carnival and test your skills! "
+		      title_txt="CARNIVAL"
+		      c0="FLOWER SHOP LAB"
+		      c1="GIFT PACK"
+		      c2="CIRCUS MAGIC"
+		      c3="FLOWERLAND MYSTERY ATTRACTIONS"
+		      c4="FANTASY SLOTS"
+			   con_level="Level≥{x}"
+			   unlock_tips="Requires level{X}"
+			   unlock_part="Click to unlock"/>
+	</rightCombineWin>
+	<activity>
+		<info tfActivityButton1="Event Info" 
+		tfActivityButton2="Gold Rewards"
+		 tfPersonEventEnds="Event ends:" 
+		 tfPersonEventEnds2="Remaining:" 
+		 tfPersonIndividual="Individual Goals:" 
+		 tfPersonTips2="Please claim all rewards before the last day of the event or you will lose the chance to claim them." 
+		 tfGoldTitle="Based on the total amount of Gold you spend during the event period, you will be able to claim the following rewards:" 
+		 tfGoldTips1="Note: Gold Rewards can only be claimed once each." 
+		 tfGoldTips2="Please claim all rewards before the last day of the event or you will lose the chance to claim them." 
+		 tfgoldElem="Gold" 
+		 tfClaimButton="Claim" 
+		 tfTipSizeName="DECORATION"
+		 tfClickMake="Click to Make"
+		 sendItem_btn_txt="Go!"/>
+	</activity>
+	<newMachineSuperTask>
+		<info tfAcceptLevelDes="Level Leaderboard" 
+		tfAcceptGlobalDes="Global Leaderboard" 
+		tfAcceptComp2Des2="Leaderboard Info" 
+		tfAcceptComp2Des3="1. Leaderboard rewards will only be sent to the winners at the end of each round." 
+		tfAcceptComp2Des4="2. Email additional questions to flowershop@shinezone.com." 
+		tfAcceptComp2Des5="All issues will be resolved at the end of the event." 
+		tfAcceptClaim="Claim" 
+		tfAcceptComp1Des="NOT TOP 20" 
+		number_txt="Round #" 
+		tfAcceptRoundLock="LOCKED" 
+		tfAcceptIn="IN" 
+		tfAcceptProgress="Progress" 
+		lev_txt="No.#"
+		tfTaskRewardTitle="EXCHANGED!" 
+		tfTaskRewardOK="OK"
+		tfSuperTaskDes5="Please claim all rewards before the last day of the event or you will lose the chance to claim them." 
+		tfSuperTaskExchage="Exchange" 
+		tfSuperTaskLeaderboard="Leaderboard"
+		tfLeaderBoardReward="Rewards" 
+		tfLeadboardgototask="Tasks" 
+		tfLeaderBoard1st="1st Place" 
+		tfLeaderBoard2st="2nd-10th" 
+		tfLeaderBoard3st="11th-20th" 
+		tfRankingDes2="Level Leaderboards start at level 20." 
+		tfRankingDes3="Rewards will be sent to all winners after each round ends." 
+		tfRankingDes4="Displayed Level leaderboard is based on your current level." 
+		tfLeaderBoardCash="+ # Cash" 
+		tfRewardOutput="DISPLAY MAX" 
+		levelTip_txt="Casing not reached Lv.20, unfortunately you could not participate in this peer. Hurry up, more fantastic events are waiting!"
+		tfMachineRewardTitle="CONGRATULATIONS!" 
+		tfMachineRewardDes3="You won the rewards of leaderboard!"
+		tfSuperTaskDes4="Leaderboard rankings count “#” exchanges."
+		tfBackBtnTips="Check Leaderboard"
+		tfMainDes="Leaderboards refresh every 2 minutes. Claim rewards after each round. You must be level 20 or above to enter leaderboard competitions."
+		tfSuperTaskCountAll="#exchanges this season:@"
+		tfSuperTaskCountCur="#exchanges this round:@"
+		tfSuperTaskRank="Global rank:#"/>
+	</newMachineSuperTask> 
+	<machineSuperTaskGuide>
+		<info name_txt1="Apple"/>
+		<info tips_txt1="I'd love to go and do some outside activities but its too cold!"/>
+		<info btn_mc_txt1="So cold!"/>
+		<info name_txt2="Sean"/>
+		<info tips_txt2="Do you have any ways of keeping your shop warm during the winter?"/>
+		<info btn_mc_txt2="Let me think..."/>
+		<info name_txt3="Kitty"/>
+		<info tips_txt3="What about a fountain for your yard? Or maybe a reindeer for your shop?"/>
+		<info btn_mc_txt3="Great idea!"/>
+		<info name_txt4="Apple"/>
+		<info tips_txt4="Let's get your shop prepared for winter!"/>
+		<info btn_mc_txt4="Let's go!"/>
+	</machineSuperTaskGuide>
+	<exchangeTask>
+		<info time="[c]@ days # left[/c]" 
+		timeout="Event Ends:[c] # CDT[/c]" 
+		reward="Reward:" 
+		exchange="Exchange"
+		ok="OK"
+		rewardtitle="CONGRATULATIONS!"
+		rewardinfo="You received:"/>
+	</exchangeTask>
+	<rightTip>
+		<info giftpacks="Gift Pack" 
+		lab="Flower Shop Lab" 
+		tiger="Flowerland Mystery Attractions"/>
+	</rightTip>
+	<Achievement>
+		<info maintitile_txt="SHOP ACHIEVEMENTS"/>
+	</Achievement>
+	<tripleBuy>
+		<info bestbuy="BEST DEAL"/>
+	</tripleBuy>
+	<hotSale>
+		<info title="Super Sale"
+		 hotItem_txt="Best Seller:"
+		/>
+		<info coming_soon="{size}coming$soon!{/size}"/>
+	</hotSale>
+	<WinRequest>
+		<info sendall_mc_txt="Send All"/>
+		<info send_mc_txt="Send"/>
+		<info accpetall_mc_txt="Accept All"/>
+		<info accept_mc_txt="Accept"/>
+		<info pic_goto_btn_txt="Go!"/>
+		<info sendgift_mc_txt="Send Free Gifts"/>
+		<info noRequest_txt="You have no requests"/>
+	</WinRequest>
+	<expressUnlockTips>
+		<info title_txt="EARLY UNLOCK?"/>
+		<info des_txt="Early unlock and upgrade your shop to get more orders! "/>
+		<info unlock_btn_txt="Unlock"/>
+		<info tips1_txt="提示："/>
+		<info tips2_txt="Tips:You need friends' help to upgrade the shop unlocking."/>
+	</expressUnlockTips>
+	<expressLevelUpRequest>
+		<info title_txt="ASK FRIENDS FOR HELP"/>
+		<info des_txt="Materials are ready! Invite friends to help you upgrade!"/>
+		<info friendCount_txt="Friends:"/>
+		<info ask_btn_txt="Ask friends"/>
+		<info ask_btn_txt2="Complete Now"/>
+		<info buy_btn_txt="Complete Now"/>
+		<info content_txt="You have completed orders!"/>
+		<info right_btn_txt="Details"/>
+	</expressLevelUpRequest>
+	<expressSlot>
+		<info title_txt="BIG CLOVER WHEEL"/>
+		<info desc_txt="One mysterious gift in each treasure box, try your luck to get the golden key!"/>
+		<info key_desc_txt="Gold keys:"/>
+		<info reward_btn_txt="Free Spin X#"/>
+		<info buy_btn_txt="# Spin"/>
+		<info check_reward_btn_txt="Check Rewards"/>
+		<info check_reward_btn_txt2="Cancel"/>
+	</expressSlot>
+	<expressReward>
+		<info title_txt="CONGRATULATIONS! "/>
+		<info des_txt="Awesome! You received the following rewards:"/>
+		<info ok_txt="OK"/>
+		<info tips_txt="獎品可到市場菜單下查看"/>
+	</expressReward>
+	<expressKeyReward>
+		<info title_txt="CONGRATULATIONS! "/>
+		<info des_txt="Congrats! You earned a free reward spin!"/>
+		<info ok_btn_txt="Click to Spin"/>
+	</expressKeyReward>
+	<ChristmasActivity>
+		<info title_txt="Love and Flowers"/>
+		<info tips_txt="Loving is an act of bravery. Make others happy! Make special floral products this Valentine's to earn big rewards."/>
+		<info reward_txt="Love Reward"/>
+		<info comingsoon_txt="Starts soon"/>
+		<info getItem_txt="Make Valentine Floral Products to earn Romance Stamps"/>
+		<info getItem_num="Have:#"/>
+		<info condition_txt="Complete the Sincere Love timed tasks to earn Chasing Moto"/>
+		<info condition_txt2="Good job! You earned Chasing Moto!"/>
+		<info condition_go_btn_txt="Previous Task"/>
+		<info confirm_mc_txt="Unlock"/>
+		<info confirm_mc_txt2="Make"/>
+		<info skip_mc_txt="# Skip"/>
+		<info reward_buy_btn_txt="# Buy"/>
+		<info reward_title_txt="CONGRATULATIONS!"/>
+		<info reward_tips_txt="Philip thanks you with a # Dinner decoration!"/>
+		<info reward_btn_txt="Claim"/>
+	</ChristmasActivity>
+	<levelReward>
+		<info tip0="Flowerchild"/>
+		<info tip1="Starter Gardener"/>
+		<info tip2="Adept Gardener"/>
+		<info tip3="Community Gardener"/>
+		<info tip4="Experienced Gardener"/>		
+		<info tip5="Expert Gardener"/>
+		<info tip6="Famous Gardener"/>
+		<info tip7="Flower Shop Boss"/>
+		<info tip8="Flower Protector"/>
+		<info tip9="Flower Master"/>
+		<info tip10="Expert Botanist "/>
+		<info tip11="Celebrity Botanist"/>
+		<info tip12="Green Thumb"/>
+		
+		<info tip13="Student Gardener"/>
+		<info tip14="Novice Gardener"/>
+		<info tip15="Junior Gardensmith"/>
+		<info tip16="Gardensmith"/>
+		<info tip17="Advanced Gardensmith"/>
+		<info tip18="Horticulture Master"/>
+		<info tip19="Flower Superstar"/>
+		<info tip20="Green Thumbed"/>
+		<info tip21="Garden Sage"/>
+		<info tip22="Garden God"/>			
+		
+		<info tip="Reach *level #~ and you will be considered a @ inthe Flower Shop community. You will be rewarded with: "/>			
+		<info comingsoonName="LEVEL @+"/>
+		<info comingsoonTip="Level rewards for level @ and higher will be coming soon."/>
+	</levelReward>	
+</root>

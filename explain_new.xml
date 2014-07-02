@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<feed>
+		<info hint="Message sent!"/>
+	</feed>
+	<expressDelivery>
+		<info buy="Buy" buy_more="No more orders! Want more? Click to buy more orders." buy_staff_desc="A permanent deliveryman only requires 99 gold. " buy_staff_tips="Tip: The permanent deliveryman can deliver orders on time everyday. " buy_staff_title="Employ Deliveryman" confirm="Confirm" consume1="Order cost:" consume2="Instant Delivery cost:" consume3="Purchase cost:" deliver="Delivery" delivery_disable_1="Insufficient products for orders" delivery_disable_2="No free Deliverymen" desc="Flowers, Candles, Lotions,Floral products...We can deliver whatever you want!" desc_buy="No more orders! Want more? Click to buy more orders." done_1="Welcome to the Flower Delivery Shop! Every order completed will grant rewards! Choose an order on the left side." done_2="Great! All orders Completed! Spend [c] gold to unlock extra orders. Complete more orders for more rewards! " done_3="Fantastic! All orders completed again! There are only 5 extra orders per day, continue tomorrow!" flush="Transfer" flush_free="Transfer" get_rewards="Get rewards" go_make="Produce" go_sow="Plant" helpBtn="Go Spin" helpBtn1="See Order" helpTips1="You've aleady earned [c]a free[/c] spin today!" helpTips2="Finish[c] @ orders[/c] today to earn a free spin." helpTips3="Finish @ orders every day to gain an extra spin! Max 1 free spin per day." hire="Hire" instant="Instant Delivery" instant_come="Arrive Now" invite="Invite" keyTips="Get Chest Keys from Big Clover Wheel spins" material_tip="Almost ready for an upgrade! Collect the remaining needed materials!" maxLevel="Max Level" more_tips="Today's remaining orders:" npcName="Amelia" npcdia1="Orders are completed! Wait for more to be ready!" npcdia2="Orders still remain! Deliver for more rewards!" npctip="Welcome!" order_name="[name]'s Order" requesttips="Invited friends will deliver orders for 6 hours in your shop. " reward_tips="Claim rewards after complete  deliveries." rewards_desc="Rewards after delivery:" skip="Skip" skip_tip="Don't want to wait? You can click Instant Delivery to complete an order now!" staff_name="Permanent Deliveryman" status_busy="Delivering..." status_buy="" status_done="Completed Orders" status_idle="Idle" status_incoming="Arriving soon" status_leaving="Leaving  soon" time_tips="Order Update Time:" tips="Each order requires 1 deliveryman for 1 hour." title="Flower Delivery Shop" title_1="Delivery Apprentice" title_2="Delivery Novice" title_3="Experienced Deliverer" title_4="Master Deliverer" title_5="Expert Deliverer" title_6="Speedster Deliverer" title_7="Rocket Deliverer" title_8="Big Shot Deliverer" title_9="Supreme Deliverer" upgrade="Upgrade Shop" upgrade_tip="Sufficient Prestige to upgrade shop! Upgrade to earn more Prestige." upgradetip="Upgrade completed! Stay tuned for higher levels."/>
+	</expressDelivery>
+	<taskWindow>
+		<info done="goal completed"/>
+	</taskWindow>
+	<akeyEffect>
+		<info name1="Planting flowers..." name2="Harvesting flowers..." name3="Collecting from attractions..." name4="Placing pots…" name5="Planting…" name6="Harvesting flowers…" name7="Weeding your garden"/>
+	</akeyEffect>
+	<shopmenu>
+		<info backyard="Backyard" backyard_all="All" backyard_doddad="Decorations" backyard_door="Gates" backyard_fence="Fences" backyard_floor="Tile" backyard_sculpture="Sculpture Counters" consumable="Consumables" consumable_all="All" display="Floral Displays" display_all="All" floralstands="Floral Stands" flower_all="All" flower_common="Flowers" flower_lab="Lab Flowers" flowerland="Flowerland" flowerland_all="All" flowers="Flowers" go="Flower Shop Lab" hint="You have no Lab flower seeds" indoor="Indoor Decor" indoor_all="All" indoor_doddad="Decorations" indoor_door="Doors" indoor_floor="Tile" indoor_other="Others" indoor_rug="Rugs" indoor_totem="Aura Decos" indoor_wall="Wall Decor" indoor_wallpaper="Wallpaper" machine_all="All" machine_indoor="Indoor Machines" machine_outdoor="Outdoor Machines" machines="Machinery" outdoor="Outdoor Decor" outdoor_all="All" outdoor_arch="Arch Gates" outdoor_doddad="Decorations" outdoor_fence="Fences" outdoor_floor="Tile" outdoor_totem="Aura Decos" plants="Plants" sprays="Sprays"/>
+	</shopmenu>
+	<Chest>
+		<info title="Cost:"/>
+	</Chest>
+	<pushFriends>
+		<info add="Add" addall="Add All" currentcount="Current Neighbors:" emptytips="You have no community neighbors." fulltips="You've reached max community neighbors, remove some before adding more." remove="Remove" removeall="Remove All" removetips="These neighbors won't be added as Facebook friends, remove any time." sendTips="Neighbor invite request sent" tab_current="Neighbors" tab_new="Add Neighbors" timetips="Recommendation Timer " title="Community Neighbors"/>
+	</pushFriends>
+	<sendRequest>
+		<info progress=" Successful sends: {current}/ {amount}" tips=" Friends sent invites within the past {X} hours are not shown."/>
+	</sendRequest>
+	<backgarden>
+		<info build="Edit" expand="Expand your Flowerland into this area?" explain="Own your own Backyard to design and decorate as you wish! Do you want to unlock it now?" name="Edit Garden" publicityName="Backyard" publicityTip="Your shop gets more and more beautiful from all your hardwork. Check out the new Backyard and see what you can do!" sapphireInfo="Insufficient Sapphires!" sapphireTip="Tip: Sell Floral Products to earn Sapphires" tip="Tip: After unlocking, you still need materials to open up it's different areas"/>
+	</backgarden>
+	<confirmWindows>
+		<info cannotsell="Cannot be sold" cannotstore="Cannot be stored" tipBuy="Are you sure to buy this one" tipSell="Would you like to sell this item for"/>
+	</confirmWindows>
+	<itemtype>
+		<info type_1="Indoor Decor" type_11="Floral Display" type_16="Outdoor Tile" type_2="Wallpaper" type_3="Wall Decor" type_4="Tile" type_48="Nutrient Bottler" type_51="Vases" type_53="Extras" type_67="Can be sold" type_68="Decorations"/>
+	</itemtype>
+	<floralDepot>
+		<info explain="Floral Products can spoil and need to be stored properly. Build your Floral Product Storage now to keep them fresh!" ok="Build Instantly"/>
+	</floralDepot>
+	<storage>
+		<info floraltips="You have no floral products in storage，[n] Please make more[n]" floraltitle="FLORAL PRODUCT STORAGE" lock="Unlock" tips="0 flowers in inventory.[n]Plant and harvest flowers in[n]your garden." title="FLOWER STORAGE" upgrade="Upgrade"/>
+	</storage>
+	<quickguide>
+		<info hint_1="Currently no free employees or displays" hint_2="Invite friends?" hint_3="No employees that can be sped up right now" hint_4="Cannot use speed up items right now" hint_5="No free vendors to sell flowers"/>
+	</quickguide>
+	<rebate>
+		<info buy="Buy" check="Details" daily="Today's claim:" get="Claim" hot="Best" intro_1="Spend less and earn more! Buy the Diligence Plan to earn [y] gold per day for [z] days! A total of 720 gold, only [x] " intro_2="Need gold on hand? Buy the Liquidity Plan to earn [y] gold per day for [z] days! A total of 1800 gold, only [x] " intro_3="Plan on some shop rennovations? Buy the Super Shop Plan to earn [y] gold per day for [z] days! A total of 3600 gold, only [x] " intro_desc="To thank all his great customers, Uncle Lou is preparing new money packages. Pick the one you like best!" name="Uncle Lou's Moneybox" name_1="Diligence Plan" name_2="Liquidity Plan" name_3="Super Shop Plan" rebate_desc="You've purchased the [s]. You've received [x] days of gold shipments with [y] days remaining." remain="You have [x] gold remaining to claim!" tips="Only 1 plan can be purchased per player, and can only be bought once."/>
+	</rebate>
+	<machine>
+		<info activity="Event Products" activityflag="Event" desc="Place fresh flowers in machines to produce beautiful flower products! It's easy, give it a try!" expressLeft="{time} until the Big Clover Wheel's prizes are updated" flowers="Flowers" left="Remaining:" needtime="Production time:" notice_activity="This machine product is not part of this event." notice_flower="You have no stored flowers able to make products." production="Products" sow="Plant Now" start="Start" tips="Flowers needed to make Flower Products are found in the Market and Lab." valid="Ready to Produce"/>
+	</machine>
+	<orderWindow>
+		<info desc_arrive="Your order, {X}, has been delivered!" desc_inprogress="{X} order in progress:" tips="The vase that you bought has arrived!" title_arrive="Goods delivered" title_order="Goods ordered"/>
+	</orderWindow>
+	<noviceGiftBag>
+		<info ok="Buy Now!" title="Starter Pack Booster!"/>
+	</noviceGiftBag>
+	<continuousLogin>
+		<info clickSupplement="Click to Sign In" dayName="Sun,Mon,Tue,Wed,Thu,Fri,Sat" everyDayName="Daily Prize" haveSignIn="Days Signed:{today}" lotteryName=" Flower Shop Lab Lucky Draw" notSingIn=" Sign-ins Remaining:{day}" noticeTitle="Upcoming Events" share="Share to Double" signIn="Today's Sign-in" supplement="Late Sign{day}" supplementAll="Late Sign All" supplementTitle="Gold required to sign in late for {day} days:" supplementTitleAll="Gold required to sign in late for all {day} days:" title="Daily Sign-in Reward" tomorrow="Return Tomorrow"/>
+	</continuousLogin>
+	<slot>
+		<info activedesc_1="Come and try your luck at the fantasy slots! Special sea-themed awards are here for you to win!" activedesc_2="Autumn is coming. Let's have a special harvest. Try your lucky to get special gifts in the  Fantasy Slots." activetitle="Fantasy Slots" comingsoon="Coming soon" free="Free" freeflag="Free x 1" get="Claim" go="Go now!" nextfree="Next free play:" other="Collect all 5 to win an extra prize" pity="Almost there!" play="Play" progress="Completed:" size="Size:" theme_1="Under the Sea" theme_2="Fruitful Autumn" theme_3="NEW BEGINNINGS" themedesc="Try your luck here!" themetips="Note: 1 free spin each day during the event (Spins do not accumulate)" type="Type:"/>
+	</slot>
+	<floralStudio>
+		<info activity_desc="Make Floral Products and have a &lt;font color='#FF6600'&gt;{x}%&lt;/font&gt; to earn:" bottom_desc_xmas="Reward:" bottom_tips_xmas="" clickbuy="Click to Buy" clickmake="Click to Make" clicktounlock="Click to Unlock" coming="Coming" comsume="Use Nutrient Water" duration="Time" expire_make_xmax="Make" floralinfo="Floral Product Info" full="Full" instantmake="Complete Instantly" make="Make" normal_desc="Make &lt;font color='#FF6600'&gt;{x}&lt;/font&gt; more products to reach the next &lt;font color='#FF6600'&gt;{x}&lt;/font&gt;" notenough="Insufficient materials" on_collect="Collect:{x}" on_upgrade="Upgrade:{x}" output="Output" reward_xmas="Colored Stockings" soon="soon..." tips_make_xmax="Rewarded on completion" title="製作臺" toplevel="Max product proficiency reached" tripledesc="Floral Product Requirements" tripletitle="Buy Nutrient Water?" unlock_desc_xmax="Finish task to unlock floral products!" unlock_xmas="Unlock" unlockneed="Unlock Requirement:" upgradeTips="恭喜您的花藝台到達了{x}級，有新的花藝品解鎖，趕快去看看吧" water="Nutrient Water" waternotenough="(Insufficient)"/>
+	</floralStudio>
+	<flowerSculpture>
+		<info entranceExchange="Base Exchanges" entranceExplain="Let me teach you the skill of sculpting sculptures to decorate your backyard and sell!" entranceMake="Sculpt" entranceMedal="Rewards" entranceTitle="Flower Sculptures" explain="Choose sculpture to sell" infoTips="Price:" noSculpture="No sculptures to sell" noSculptureGo="Make" rewardTips=" You're truly a flower expert! Your hard work has paid off so why not put some decorations in your garden?" title="Sculpture Counters" wGuideBtn1=" Start now" wGuideBtn2=" Exchange" wGuideContent1=" Hi! I'm Grace and I make Sculpture Workshops. Make one yourself to help your garden stand out from the rest!" wGuideContent2=" A good base makes a good Sculpture Workshop. You can exchange Sapphires for a variety of different bases!" wandFloral=" Complete product" wandSculpture="Complete sculpture"/>
+	</flowerSculpture>
+	<menuTip>
+		<info cash="Cash:#" depot="To storage limit:#" exp="Next level in:#" gold="Gold:#" recharge="Add more" sapphireCount="Sapphire:#"/>
+	</menuTip>
+	<themepanel>
+		<info activation="Activate" adding="Adding # @" apply="Click to Apply " backgardenexpand="Backyard Expansion" backgardenexpansion="Backyard" cash="cash" clearcooking="Click to Clear" clearing="Clearing" clickSculpture="Click to make sculpture" clickadd="Click to Add @" clickaddall="Click to Add Flowers" clickbuild="Click to Build" clickcancel="Click to Cancel" clickcharged="Click to Collect" clickclear="Click to Clear" clickcollect="Click to Collect" clickcollectall="Click to Collect All" clickcomplete="Click to Complete Instantly" clickdismiss="Click to Dismiss" clickexpand="Click to Expand" clickfloral="Click to make products" clickharvest="Click to Harvest" clicklook="Click for details" clickopen="Click to Open" clickplace="Click to Place" clickplant="Click to Plant" clickprepare="Click to Prepare" clickpurchase="Click to Purchase" clickreform="Click to Edit" clickselect="Click to Select" clicksell="Click to Sell" clicksow="Click to Sow" clickspeedup="Click to Speed Up" clickstock="Click to Stock" clicktrayfull="Input Tray is Full" cooking="Cooking" currency="Sapphire" empty="Empty" emptyflowerpot="Seed Required" emptymachine="Input Tray Empty" emptytable="Pot Required" farmerslock="Level @" farmersunlock="Level 15" floraldisplay="Floral Display" floralitem="Floral Products" floralname="Floral Arrangement" floralstar="Next Title: #" flowers="flowers" garbage="Clearing" gardenexpansion="Garden Expansion" gasoline="Planter Harvester" gold="Gold" greenhousearea="Greenhouse Area" greenhouseunlock="Level 30" harvestcash="Collecting" harvestfruit="Collecting" harvesting="Harvesting" idle="Idle" machineBasketEmpty="Tray @: [c]Empty[/c]" machineBasketQueue="Tray @: " machineBasketWait="Tray @: [c]Waiting[/c]" makefinish="Floral Products Complete" makefloral="Make Floral Products" markettime="D,H,M" medal="Medals" merchanttable="Merchant Table" notstandrole="Employee blocked, rearrange objects" open="Available" operatemachine="Producing @ " parkexpansion="Flowerland Area" parkunlock="Level 45" placing="Placing" placingflower="Placing" placingfruit="Placing" preparing="Preparing Arrangement" ready="Ready" readyin="Ready in " remaining="@ Remaining" revival="Click to Unwither" revivalpro="Unwithering" sales="selling rate" shopexpansion="Shop Expansion" siteoccupancy="Employees cannot move out of bounds!" sowing="Sowing" speedup="2X Faster for " speedupflower="Spraying" temp="Temp" totembuild="Upgrading" totemcash="+@ Cash" totemflower="+@ Flowers" totemfulllevel="Maximum Upgrade" totemsales="+@ Selling Rate" totemupgrade="Upgrade" totemxp="+@ XP" trash="Trash" volunteer="Volunteer" waitingworker="Waiting for Worker" wandprogress="Completing" weeds="Weeds" withered="Withered" xp="XP"/>
+	</themepanel>
+	<assembleExchange>
+		<info assemble_base="Sculpture Base" bench_instant="Complete now" bench_make="Start making" bench_rate_high="High % to receive:" bench_rate_low="Low % to receive:" bench_title="Sculpture Workshop" common_rate="&lt;font color='#FF6600'&gt;{x}%&lt;/font&gt; chance of obtaining" exchange_con_assemble="Unlock previous sculpture" exchange_con_level="Level≥{x}" exchange_con_medal="Spend {x} medals" exchange_con_unlock="Unlock previous base" exchange_desc="Make a sculpture base using Sapphires to sell Flower Sculptures on!" exchange_exchange="Confirm" exchange_goon="Exchange" exchange_make="Make" exchange_price_gold="Spend {x} Gold to unlock early!" exchange_remain="Have:" exchange_succ_desc="Great job! You've already earned these flower sculpture bases:" exchange_succ_title="Exchange Complete" exchange_title="Exchange" exchange_unknown="Turning pages will reset current base amounts. Turn the page?" exchange_unlock="Unlock now" exchange_unlock_apply="Unlock" gain_more_medals="Earn medals" level="Level:" level_0="Basic" level_1="Advanced" level_2="Super" level_3="Excellent" level_4="Quality" level_5="Master" medals_not_enough="Insufficient medals" more_medals="Sell sculptures for medals" need_unlock="Still not unlocked" type="Type:" unlock_confirm="Spend medals to unlock {x}?" unlock_tips="Need to achieve level{X} "/>
+	</assembleExchange>
+	<dailyReward>
+		<info eday="@ day" explain="The more days you login consecutively, the more rewards you receive!" info="Today's Reward:" like="Like" ok="Share for a double reward!" rday="Login 5 days for a free Lab spin." tip="Flower Shop fans earn extra rewards each day: " title="Daily Login Rewards"/>
+	</dailyReward>
+	<iconscollection>
+		<info ad_btn="Video Ads" cash="Cash" exp="XP" floralmedal="Medal Quantity" floralstorage="Floral Storage" flowerstorage="Flower Storage" free_gift_btn="Gift Packs" gold="Gold" goldsale="Gold Sale" levelreward="Level Reward" nutritiouswater="Nutrient Water" sapphire="Sapphire"/>
+	</iconscollection>
+	<windwos>
+		<info buy="Buy" cancel="Cancel" claimed="Finished @ times" confirm="OK" finish="Finish" framersmax="Display max reached." framersnomore="No more @." leadersroundcount="# Finished:@ （Auto-refresh leaderboard per 2 min）" limitbuy="Purchase max reached." limittimetaskask="Ask" limittimetaskcomp="Completed:@/#" limittimetaskexpired="Expired" limittimetaskexpiredinfo="Event task time is up! [n]Please wait for the next one." limittimetaskfinishall="Completed" limittimetaskfinishinfo="Congratulations! [n]All tasks are completed!" limittimetaskfloral="Start" limittimetaskgo="Go" limittimetaskinfo="Completed! You received:" limittimetaskpost="Post" limittimetaskskip="@  Skip" limittimetasktask="Previous Task" limittimetasktime="@ days" limittimetasktitle="CONGRATULATIONS!" machinemax="Input tray max reached." nomorehint="Don't ask me next time" ok="OK" removetask="Remove Task" share="Share" superlevel="Level @ Leaderboard" superlevelaward="Level @" tasktimer="# CDT%@ days $ left" tasktimer2="Round over; system is sending rewards. Next round begins on @. " tasktimer3="Round @ of #:" tasktimer4="@Event has ended." totemitemindoor="Surrounding displays have a @% chance of gaining #(*). Collect max of $ sales from aura-affected displays each day" totemitemoutdoor="Surrounding flowers have a @% chance of gaining #(*) on harvest. Collect max of $ aura-affected flowers each day." totemseeds="During growth, this aura flower grants a @% chance to give an extra # (*) on harvest, to all flowers in its aura. Only successfully effected harvested flowers will be deducted from your  $ harvest max." totemtypeannual="Seasonal" totemtypemore="Perennial" tradercash=" @." traderneed="I need @!" traderstorage="Note: You have @ in storage." tradertime="@" weekending="week-ending @" weekending2="Resets in # Days @"/>
+	</windwos>
+	<floralShare>
+		<info explain="Your $ is now: [c]# Medal quality[/c]" ok="Share"/>
+	</floralShare>
+	<giftpacks>
+		<info desc="Follow Facebook's steps to earn a free gift pack! Once completed, refresh game to get your reward." ok="Claim" title=" Free for you to claim! "/>
+	</giftpacks>
+	<unlock>
+		<info pass="Granted" permissions="Obtain rights?" title=" EARLY UNLOCK?" type_0="Grow Orchids, Cactus, and more inside your Greenhouse. Purchase greenhouse area?" type_1="Add Rollercoasters, Restaurants, Hotels more to your very own theme park!Purchase area for Flowerland?"/>
+	</unlock>
+	<daily>
+		<info day="{x} Days" desc="If you complete tasks everyday, the prizes will keep on getting better!" reward="Today's Task Reward" share="Share to Double" tips="If you reach Level {x}, you won't be able to continue with this task!" title="5 tasks per day"/>
+	</daily>
+	<options>
+		<info done="Finish" edit="Edit" farm="Farmers' Market" farm_tips="Another place to sell fresh flowers!" floralsdepot="Floral Storage" floralsdepot_tips="Exclusive patented floral products." flowersdepot="Flower Storage" flowersdepot_tips="100% freshness guaranteed!" greenhouse="Greenhouse" greenhouse_tips="Winter flowers can bloom here." market="Market" move="Move" orders="Delivery Menu" orders_tips="Set up your flower arrangement!" park="Flowerland" park_tips="A little money for some happiness." reaper="Planter Harvester" reaper_tips="Science keeps up our productivity." rotation="Rotate" sell="Sell" store="Store"/>
+	</options>
+	<flowerIcon>
+		<info amount=" Storage:{amount}" clickUse=" Click to use" flowerClearIconContent=" On use, will remove all wilted flowers." flowerClearIconName=" Weeder" flowerInstantGrowContent=" On use, will all flowers will grow to maturity." flowerReviveIconContent=" On use, will rejuvenate all wilted flowers." flowerSuperGrowContent=" Growing times will be reduced by 50%" flowerWandContent=" Complete all floral arrangements, machine and floral production"/>
+	</flowerIcon>
+	<nutritiveWaterRecover>
+		<info cancel="Cancel" explain="Withdrawing now will recalculate the remaining time, are you sure you want to withdraw?" yes="Yes"/>
+	</nutritiveWaterRecover>
+	<backGold>
+		<info dec="DECORATION" getGold="Claim" getGolded="Claimed" go="Go" goldexplain="Accumulated Rewards: # Gold" goldname="Gold Rebate" ok="OK" rewardinfo="You received:" rewardtitle="CONGRATULATIONS!" spend="You have spend:" spendgold=" # Gold"/>
+	</backGold>
+	<guide>
+		<info floral_1_0="    Long time no see! I've been studying with a Floral Master to learn how to make Floral Products. Let me show you how!" floral_2_0="    To make Floral Products you'll need special materials. I've prepared some for you to give it a try!" floral_3_0="    Floral Products take some time to be made, I'll speed this one up for you. Later on you can use Magic Wands to speed up production." floral_4_0="    Click on the Oaken Display to select what and how many of a Floral Product you want to sell." floral_5_0="    Pretty simple, huh? You'll become a Floral Master in now time! I'll let you research how to make other products. Come visit me wen you can!" floral_6_0="Click the Oaken Display to start creating Floral Products!" floral_6_1="Click to start inputting the materials!" floral_6_2="Let's input another material, we're almost there!" floral_6_3="It's ready! Let's make it!" floral_6_4="Collect your finished product!"/>
+	</guide>
+</data>
